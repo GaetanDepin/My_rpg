@@ -2,9 +2,7 @@
 MUL_my_rpg
 
 Group project:
-Alain Nguyen
-Axel virot
-Tony Marini
+Alain Nguyen, Axel Virot, Tony Marini
 
 Epitech 2018
 
